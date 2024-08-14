@@ -1,8 +1,4 @@
-## Hi there 👋
-
-
-
-Here are some ideas to get you started:
+## Hi there I am aarjac 👋
 
 - 🔭 I’m currently working on ... Earning my Electrical Engineering Degree 
 - 🌱 I’m currently learning ... How to code through The Odin Project  
